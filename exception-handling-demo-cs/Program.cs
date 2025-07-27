@@ -17,7 +17,7 @@ namespace exception_handling_demo_cs
     {
         static void Main(string[] args)
         {
-            Solution Soultion = new Solution();
+            Solution Solution = new Solution();
         }
     }
 }
